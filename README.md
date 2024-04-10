@@ -62,16 +62,16 @@ Explain typical DevOps workflows or pipelines.
 Provide links to useful resources for learning more about DevOps.
 
 - **Books**
-  - "The Phoenix Project" by Gene Kim, Kevin Behr, and George Spafford
-  - "DevOps Handbook" by Gene Kim, Patrick Debois, John Willis, and Jez Humble
+  - null
+  - null
 
 - **Online Courses**
-  - Coursera: DevOps courses and specializations. [Link](https://www.coursera.org/specializations/devops)
-  - Udemy: Various DevOps courses. [Link](https://www.udemy.com/courses/search/?q=devops)
+  - null
+  - null
 
 - **Blogs and Websites**
-  - DevOps.com: News, articles, and resources. [Link](https://devops.com/)
-  - DZone DevOps: DevOps news, tutorials, and opinions. [Link](https://dzone.com/devops)
+  - null
+  - null
 
 ---
 
