@@ -1,10 +1,6 @@
 # DevOps
 DevOps
 
-Creating a comprehensive GitHub README for DevOps topics involves highlighting key areas such as tools, practices, workflows, and resources. Below is an outline you can use to structure your README:
-
----
-
 # DevOps Topics
 
 ## Table of Contents
